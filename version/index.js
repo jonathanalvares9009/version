@@ -1,6 +1,6 @@
+import { objToStr } from "../config/obj-to-str";
 import { inRepo } from "../file/in-repo";
 import { writeFilesFromTree } from "../file/write-files-from-tree";
-import { objToStr } from "../config/obj-to-str";
 
 export const init = (opts) => {
   // Abort if already a repository.
