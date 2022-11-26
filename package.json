@@ -1,0 +1,22 @@
+{
+  "name": "version",
+  "description": "A version control system built using javascript.",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanalvares9009/version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanalvares9009/version/issues"
+  },
+  "homepage": "https://github.com/jonathanalvares9009/version#readme"
+}
